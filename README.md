@@ -96,6 +96,3 @@ Excel · Python (pandas, scipy, statsmodels) · Power BI
 - dashboard.png — Power BI dashboard screenshot
 
   Full write up on my medium page : https://medium.com/@ifechukwuokoli97/from-pharmacy-to-p-values-my-first-a-b-testing-project-548f67d6bc13
-
-## 🔗 More
-Full write-up with the debugging process: [Medium article link]
